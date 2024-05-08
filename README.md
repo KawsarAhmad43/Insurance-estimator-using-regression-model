@@ -40,7 +40,7 @@ The dataset used for this project is stored in the file `insurance.csv`. It cont
 - Gather more data to enhance model accuracy and generalization.
 
 ## Author
-- [Your Name]
+- [Kawsar Ahmad]
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
